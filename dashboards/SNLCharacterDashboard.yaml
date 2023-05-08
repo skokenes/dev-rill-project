@@ -1,6 +1,6 @@
 # Visit https://docs.rilldata.com/references/project-files to learn more about Rill project files.
 
-display_name: "SNL Character Dashboard"
+display_name: "SNL Character Dashboard with extremely long title Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque quis tortor at mauris bibendum faucibus. Integer imperdiet magna feugiat facilisis euismod. Donec egestas, nisi id ultrices convallis, metus neque imperdiet nibh, ac ornare erat dolor ut enim. Etiam lobortis porta tortor ac ullamcorper. Curabitur ac suscipit felis, quis ultricies quam. Duis dapibus molestie tortor eu tempus. Suspendisse venenatis blandit purus non eleifend. Aliquam vel porta quam"
 model: "impressions_and_characters"
 timeseries: "event_date"
 measures:
